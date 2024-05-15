@@ -1,0 +1,28 @@
+
+body{
+    background: linear-gradient(to right,blue,skyblue) !important;
+}
+.back{
+    display:flex !important;
+    justify-content: center !important;
+}
+.btn{
+    font-family: "Rubik Mono One", monospace !important;
+    font-style: normal !important;
+    letter-spacing: 5px !important;
+  }
+.row{
+    display:flex !important;
+    justify-content: center !important;
+}
+.btn{
+    border-radius: 20px !important;
+    background-color: rgb(72, 158, 192) !important;
+    border-color: rgb(72, 158, 192) !important;
+}
+.card:hover{
+    zoom: 103% !important
+}
+button:hover{
+    background-color: blue !important;
+}
