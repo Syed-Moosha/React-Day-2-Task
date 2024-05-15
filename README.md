@@ -1,3 +1,6 @@
+React Price Card Using React.js application with JSX.  
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
